@@ -1,5 +1,5 @@
 let cuaca = {
-    keyApi: "",
+    keyApi: "9314c3ace6a74e69149d99cf3ab2a27b",
     fetchCuaca: async function(kota) {
         fetch(
             "https://api.openweathermap.org/data/2.5/weather?q=" 
